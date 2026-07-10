@@ -3,7 +3,7 @@
 Este es un sistema simple desarrollado en **Java** diseñado para gestionar el flujo de productos y pedidos dentro de una tienda. El proyecto fue construido aplicando los pilares de la Programación Orientada a Objetos (POO) y buenas prácticas de control de errores.
 
 ## 🛠️ Tecnologías Utilizadas
-Lenguaje: Java (Versión 11 o superior recomendada).
+Lenguaje: Java (Versión 17).
 
 IDE: IntelliJ IDEA
 
